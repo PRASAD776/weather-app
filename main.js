@@ -2,7 +2,7 @@
 const qs = (sel) => document.querySelector(sel);
 
 // Elements
-const elContainer = qs('.container');
+const elContainer = qs('.container'); 
 const elSearchInput = qs('.search-input');
 const elSearchButton = qs('.search-button');
 const elInvalid = qs('.invalid');
